@@ -1,0 +1,1 @@
+docker run -itd -p 4545:8080 kaminskypavel/mario:latest
